@@ -1,0 +1,11 @@
+.pretty-card {
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  box-shadow: -3px 10px 10px 2px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 10px;
+}
