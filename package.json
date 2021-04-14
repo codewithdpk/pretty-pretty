@@ -1,6 +1,6 @@
 {
   "name": "pretty-pretty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Attractive Web UI components.",
   "main": "index.js",
   "scripts": {
