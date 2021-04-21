@@ -39,6 +39,18 @@ const PrettyBtn = (props) => {
             <img src={ic_arrow_right_white} className="ICONS" />
           </button>
         );
+        break;
+      case "GET_STARTED_SECONDARY":
+        return (
+          <button
+            className="GET_STARTED_SECONDARY"
+            onClick={props.onClick}
+            style={props.style}
+          >
+            {props.name || "Get Started"}{" "}
+            <img src={ic_arrow_right_dark} className="ICONS" />
+          </button>
+        );
     }
   } else {
     return (
