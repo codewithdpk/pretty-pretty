@@ -14,7 +14,7 @@ npm i pretty-pretty
 
 ### Card
 
-```python
+```javascript
 import { PrettyCard } from "pretty-pretty";
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
       </span>
     </PrettyCard>
   );
- }
+}
 
 export default App;
 ```
@@ -39,7 +39,7 @@ export default App;
 
 ### Normal Type
 
-```python
+```javascript
 import { PrettyBtn } from "pretty-pretty";
 
 function App() {
@@ -67,7 +67,6 @@ function App() {
 }
 
 export default App;
-
 ```
 
 ### Result
@@ -76,7 +75,7 @@ export default App;
 
 ### Get Started Type
 
-```python
+```javascript
 import { PrettyBtn } from "pretty-pretty";
 
 function App() {
@@ -104,8 +103,6 @@ function App() {
 }
 
 export default App;
-
-
 ```
 
 ### Result
