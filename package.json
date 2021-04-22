@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/codewithdpk/pretty-pretty.git"
@@ -15,5 +20,9 @@
   "perrDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/preset-react": "^7.13.13"
   }
 }
