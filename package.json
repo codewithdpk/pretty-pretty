@@ -1,6 +1,6 @@
 {
   "name": "pretty-pretty",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Attractive Web UI components.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "author": "Deepak Suthar",
   "license": "ISC",
-  "perrDependencies": {
+  "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
